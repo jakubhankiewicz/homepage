@@ -1,0 +1,17 @@
+body {
+    background: #e1e1e1;
+}
+.mainHeader {
+    color:tomato;
+
+}
+.sectionHeader {
+    color:blue;
+    font-size: 64px;
+}
+p {
+    color: darkblue;
+}
+#pamietniczek {
+    background: pink;
+}
