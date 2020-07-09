@@ -6,12 +6,12 @@ body {
 
 }
 .sectionHeader {
-    color:blue;
+    color:lightblue;
     font-size: 64px;
 }
 p {
     color: darkblue;
 }
 #pamietniczek {
-    background: pink;
+    background: red;
 }
